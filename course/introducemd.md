@@ -4,7 +4,7 @@
 
 * ##### 軟件\(工具\): 需花 5% 的精力
 
-<font color=red size = "60px">文字</font>
+<font color="red" size = "60px">文字</font>
 
   ```
    <font color=green>瀏覽器: Google, Fixfox, Safari, IE, Opera .. 核心不同. </font>
