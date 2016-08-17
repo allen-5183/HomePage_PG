@@ -4,7 +4,7 @@
 
 * ##### 軟件\(工具\): 需花 5% 的精力
 
-<center><font color="blue" size = "6px">
+<font color="blue" size = "6px">
 瀏覽器: Google, Fixfox, Safari, IE, Opera .. 核心不同.<br />
 
  瀏覽器插件: ex: Chrome F12<br />
@@ -12,8 +12,7 @@
  編輯器: 記事本、DW、 Sublime Text、PhpStorm、WebStorm、Adobe Bracket、Atom
 
  PhotoShop(圖片編輯、裁切...)
-</font></center>
-
+</font>
   ```
    
   ```
