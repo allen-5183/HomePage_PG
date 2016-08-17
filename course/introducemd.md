@@ -7,7 +7,7 @@
 <font color="green" size = "6px">文字</font>
 
   ```
-   <font color=green>瀏覽器: Google, Fixfox, Safari, IE, Opera .. 核心不同. </font>
+   瀏覽器: Google, Fixfox, Safari, IE, Opera .. 核心不同. 
    瀏覽器插件: ex: Chrome F12
    編輯器: 記事本、DW、 Sublime Text、PhpStorm、WebStorm、Adobe Bracket、Atom
    PhotoShop(圖片編輯、裁切...)
